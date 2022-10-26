@@ -1,5 +1,5 @@
-# Survey of box-supervised-instance segmentation.
-NOTE: If I miss some paper, plese feel free to contact me (liwentong at zju.edu.cn). Feel free to send me a PR!
+# Survey of Box-supervised Instance Segmentation.
+NOTE: If I miss some paper, plese feel free to submit a PR or contact me (liwentong at zju.edu.cn).
 
 ## 2022
 | Methods | Publication | Supervision | paper | code | dataset|
