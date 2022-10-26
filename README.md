@@ -1,4 +1,4 @@
-# The survey of box-supervised-instance segmentation.
+# Survey of box-supervised-instance segmentation.
 NOTE: If I miss some paper, plese feel free to contact me (liwentong at zju.edu.cn). Feel free to send me a PR!
 
 ## 2022
