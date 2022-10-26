@@ -4,7 +4,7 @@ NOTE: If I miss some paper, plese feel free to contact me (liwentong at zju.edu.
 ## 2022
 | Methods | Publication | Supervision | paper | code | dataset|
 | :----: | :----: | :----: | :----: | :----: |:----:|
-| BoxTeacher   |  Arxiv2022 | Box | [paper](https://arxiv.org/abs/2210.05174#) | [code](https://github.com/hustvl/BoxTeacher) | COCO|
+| BoxTeacher   |  ArXiv2022 | Box | [paper](https://arxiv.org/abs/2210.05174#) | [code](https://github.com/hustvl/BoxTeacher) | COCO|
 | BoxLevelset  |  ECCV2022 | Box | [paper](https://link.springer.com/chapter/10.1007/978-3-031-19818-2_1) | [code](https://github.com/LiWentomng/boxlevelset) | COCO, VOC,etc|
 
 ## 2021
