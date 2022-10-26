@@ -4,8 +4,8 @@ NOTE: If I miss some paper, plese feel free to contact me (liwentong at zju.edu.
 ## 2022
 | Methods | Publication | Supervision | paper | code | dataset|
 | :----: | :----: | :----: | :----: | :----: |:----:|
-| BoxTeacher   |  ArXiv2022 | Box | [paper](https://arxiv.org/abs/2210.05174#) | [code](https://github.com/hustvl/BoxTeacher) | COCO|
-| BoxLevelset  |  ECCV2022 | Box | [paper](https://link.springer.com/chapter/10.1007/978-3-031-19818-2_1) | [code](https://github.com/LiWentomng/boxlevelset) | COCO, VOC,etc|
+| BoxTeacher   |  ArXiv2022 | Box | [paper](https://arxiv.org/abs/2210.05174#) | [code](https://github.com/hustvl/BoxTeacher) | COCO, CityScape|
+| BoxLevelset  |  ECCV2022 | Box | [paper](https://link.springer.com/chapter/10.1007/978-3-031-19818-2_1) | [code](https://github.com/LiWentomng/boxlevelset) | COCO, VOC, iSAID, etc|
 
 ## 2021
 | Methods | Publication | Supervision | paper | code |dataset|
@@ -31,3 +31,10 @@ NOTE: If I miss some paper, plese feel free to contact me (liwentong at zju.edu.
 | Methods | Publication | Supervision | paper | code |dataset|
 | :----: | :----: | :----: | :----: | :----: |:----: |
 | SDI  |  CVPR2017 | Box | [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf) | [code](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation) | VOC|
+
+
+## Related Paper
+| Methods | Publication | Supervision | paper | code |dataset|
+| :----: | :----: | :----: | :----: | :----: |:----: |
+| APIS |  ECCV2022 | Box+ 7/10Points | [paper](https://arxiv.org/abs/2207.11493) | [code](https://github.com/chufengt/APIS) | COCO|
+| PointSup |  CVPR2022 | Box+10Points | [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Cheng_Pointly-Supervised_Instance_Segmentation_CVPR_2022_paper.html) | [code](https://bowenc0221.github.io/point-sup/) | COCO|
