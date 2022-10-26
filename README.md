@@ -36,5 +36,5 @@ NOTE: If I miss some paper, plese feel free to submit a PR or contact me (liwent
 ## Related Paper
 | Methods | Publication | Supervision | paper | code |dataset|
 | :----: | :----: | :----: | :----: | :----: |:----: |
-| APIS |  ECCV2022 | Box+ 7/10Points | [paper](https://arxiv.org/abs/2207.11493) | [code](https://github.com/chufengt/APIS) | COCO|
+| APIS |  ECCV2022 | Box+7/10Points | [paper](https://arxiv.org/abs/2207.11493) | [code](https://github.com/chufengt/APIS) | COCO|
 | PointSup |  CVPR2022 | Box+10Points | [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Cheng_Pointly-Supervised_Instance_Segmentation_CVPR_2022_paper.html) | [code](https://bowenc0221.github.io/point-sup/) | COCO|
