@@ -1,4 +1,4 @@
-# Survey of Box-supervised Instance Segmentation.
+# Awesome Box-supervised Instance Segmentation.
 NOTE: If I miss some paper, plese feel free to submit a PR or contact me (liwentong at zju.edu.cn).
 
 ## 2022
