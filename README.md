@@ -25,9 +25,9 @@ NOTE: If I miss some paper, plese feel free to contact me (liwentong at zju.edu.
 ## 2019
 | Methods | Publication | Supervision | paper | code |dataset|
 | :----: | :----: | :----: | :----: | :----: |:----: |
-| BBTP  |  NIPS2019 | Box | [paper]([https://link.springer.com/chapter/10.1007/978-3-030-58604-1_16](https://proceedings.neurips.cc/paper/2019/file/e6e713296627dff6475085cc6a224464-Paper.pdf)) | [code](https://github.com/chengchunhsu/WSIS_BBTP) | COCO,VOC|
+| BBTP  |  NIPS2019 | Box | [paper](https://proceedings.neurips.cc/paper/2019/file/e6e713296627dff6475085cc6a224464-Paper.pdf) | [code](https://github.com/chengchunhsu/WSIS_BBTP) | COCO,VOC|
 
 ## 2017
 | Methods | Publication | Supervision | paper | code |dataset|
 | :----: | :----: | :----: | :----: | :----: |:----: |
-| SDI  |  CVPR2017 | Box | [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf) | [code]([https://github.com/chengchunhsu/WSIS_BBTP](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation)) | VOC|
+| SDI  |  CVPR2017 | Box | [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf) | [code](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation) | VOC|
