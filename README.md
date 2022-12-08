@@ -38,6 +38,6 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
 ## Related Paper
 | Methods | Publication | Supervision | paper | code |dataset|
 | :----: | :----: | :----: | :----: | :----: |:----: |
-| LWSIS | AAAI2023 | Box+ points for LiDAR | [paper] (https://arxiv.org/pdf/2212.03504.pdf) | [code](https://github.com/Serenos/LWSIS) |  nuInsSeg(based nuScenes) |
+| LWSIS | AAAI2023 | Box+ points for LiDAR | [paper](https://arxiv.org/pdf/2212.03504.pdf) | [code](https://github.com/Serenos/LWSIS) |  nuInsSeg(based nuScenes) |
 | APIS |  ECCV2022 | Box+7/10Points | [paper](https://arxiv.org/abs/2207.11493) | [code](https://github.com/chufengt/APIS) | COCO|
 | PointSup |  CVPR2022 | Box+10Points | [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Cheng_Pointly-Supervised_Instance_Segmentation_CVPR_2022_paper.html) | [code](https://bowenc0221.github.io/point-sup/) | COCO|
