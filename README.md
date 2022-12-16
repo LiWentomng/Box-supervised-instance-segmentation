@@ -37,6 +37,12 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
 
 
 ## Related Paper
+ * Instance segmentation with `imgae-level` supervision
+ 
+ | Methods | Publication | Supervision | paper | code |dataset|
+ | :----: | :----: | :----: | :----: | :----: |:----: |
+ | EM-Paste | arXiv2023 | image-level | [paper](https://arxiv.org/pdf/2212.07629.pdf) | - |  COCO,VOC |
+
 
  * Instance segmentation with `box+points` supervision
  
