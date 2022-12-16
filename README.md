@@ -41,7 +41,7 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
  
  | Methods | Publication | Supervision | paper | code |dataset|
  | :----: | :----: | :----: | :----: | :----: |:----: |
- | EM-Paste | arXiv2023 | image-level | [paper](https://arxiv.org/pdf/2212.07629.pdf) | - |  COCO,VOC |
+ | EM-Paste | ArXiv2022 | image-level | [paper](https://arxiv.org/pdf/2212.07629.pdf) | - |  COCO,VOC |
 
 
  * Instance segmentation with `box+points` supervision
