@@ -1,6 +1,12 @@
 # Awesome Box-supervised Instance Segmentation.
 NOTE: If I miss some paper, plese feel free to submit a Pull Request.
 
+## 2023
+
+| Methods | Publication | Supervision | paper | code | dataset|
+| :----: | :----: | :----: | :----: | :----: |:----:|
+| Mask Auto-Labeler | ArXiv2023 | Box | [paper](https://arxiv.org/pdf/2301.03992.pdf) | [code](https://github.com/NVlabs/mask-auto-labeler)  | COCO, LVIS|
+
 ## 2022
 | Methods | Publication | Supervision | paper | code | dataset|
 | :----: | :----: | :----: | :----: | :----: |:----:|
