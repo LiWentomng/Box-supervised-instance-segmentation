@@ -43,7 +43,7 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
 
 
 ## Related Paper
- * Instance segmentation with `imgae-level` supervision
+ * Instance segmentation with `image-level` supervision
  
  | Methods | Publication | Supervision | paper | code |dataset|
  | :----: | :----: | :----: | :----: | :----: |:----: |
@@ -62,4 +62,4 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
  
 | Methods | Publication | Supervision | paper | code |dataset|
 | :----: | :----: | :----: | :----: | :----: |:----: |
-| H2RBox | arXiv2022 | horizontal box   | [paper](https://arxiv.org/abs/2210.06742) | [code](https://github.com/yangxue0827/h2rbox-mmrotate) | DOTA, DIOR|
+| H2RBox | ICLR2023 | horizontal box   | [paper](https://arxiv.org/abs/2210.06742) | [code](https://github.com/yangxue0827/h2rbox-mmrotate) | DOTA, DIOR|
