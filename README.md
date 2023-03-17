@@ -5,6 +5,8 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
 
 | Methods | Publication | Supervision | paper | code | dataset|
 | :----: | :----: | :----: | :----: | :----: |:----:|
+| SIM    | CVPR2023| Box |  [paper](https://arxiv.org/abs/2303.08578) | [code](https://github.com/lslrh/SIM) | COCO, VOC|
+| BoxTeacher   |  CVPR2023 | Box | [paper](https://arxiv.org/abs/2210.05174#) | [code](https://github.com/hustvl/BoxTeacher) | COCO, Cityscapes|
 | Mask Auto-Labeler | ArXiv2023 | Box | [paper](https://arxiv.org/pdf/2301.03992.pdf) | [code](https://github.com/NVlabs/mask-auto-labeler)  | COCO, LVIS|
 
 ## 2022
@@ -13,7 +15,6 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
 | Box2Mask      | ArXiv2022 | Box | [paper](https://arxiv.org/pdf/2212.01579.pdf) | [code](https://github.com/LiWentomng/boxlevelset)  | COCO, VOC, iSAID, LiTS|
 | AsyInst       | ArXiv2022 | Box | [paper](https://arxiv.org/pdf/2212.03517.pdf) | - | Cityscapes, iSAID |
 | Zhang et al.  |  PR2022| Box/Scribble |[paper](https://www.sciencedirect.com/science/article/pii/S0031320322006446)| - |COCO, VOC|
-| BoxTeacher   |  ArXiv2022 | Box | [paper](https://arxiv.org/abs/2210.05174#) | [code](https://github.com/hustvl/BoxTeacher) | COCO, Cityscapes|
 | BoxLevelSet  |  ECCV2022 | Box | [paper](https://link.springer.com/chapter/10.1007/978-3-031-19818-2_1) | [code](https://github.com/LiWentomng/boxlevelset) | COCO, VOC, iSAID, etc|
 
 ## 2021
