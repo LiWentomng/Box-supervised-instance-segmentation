@@ -5,6 +5,7 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
 
 | Methods | Publication | Supervision | paper | code | dataset|
 | :----: | :----: | :----: | :----: | :----: |:----:|
+| BoxSnake| ArXiv| Box |  [paper](https://arxiv.org/pdf/2303.11630.pdf) | [code](https://github.com/Yangr116/BoxSnake) | COCO, Cityscapes|
 | SIM    | CVPR2023| Box |  [paper](https://arxiv.org/abs/2303.08578) | [code](https://github.com/lslrh/SIM) | COCO, VOC|
 | BoxTeacher   |  CVPR2023 | Box | [paper](https://arxiv.org/abs/2210.05174#) | [code](https://github.com/hustvl/BoxTeacher) | COCO, Cityscapes|
 | Mask Auto-Labeler | ArXiv2023 | Box | [paper](https://arxiv.org/pdf/2301.03992.pdf) | [code](https://github.com/NVlabs/mask-auto-labeler)  | COCO, LVIS|
