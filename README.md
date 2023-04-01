@@ -45,11 +45,12 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
 
 
 ## Related Paper
- * Instance segmentation with `image-level` supervision
+
+ * Box-supervised Video Instance segmentation 
  
  | Methods | Publication | Supervision | paper | code |dataset|
  | :----: | :----: | :----: | :----: | :----: |:----: |
- | EM-Paste | ArXiv2022 | image-level | [paper](https://arxiv.org/pdf/2212.07629.pdf) | - |  COCO,VOC |
+ | BoxVIS | ArXiv2023 | box | [paper](https://arxiv.org/pdf/2303.14618.pdf) | [Code](https://github.com/MinghanLi/BoxVIS) |  YouTube-VIS, OVIS |
 
 
  * Instance segmentation with `box+points` supervision
@@ -65,3 +66,10 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
 | Methods | Publication | Supervision | paper | code |dataset|
 | :----: | :----: | :----: | :----: | :----: |:----: |
 | H2RBox | ICLR2023 | horizontal box   | [paper](https://arxiv.org/abs/2210.06742) | [code](https://github.com/yangxue0827/h2rbox-mmrotate) | DOTA, DIOR|
+
+
+ * Instance segmentation with `image-level` supervision
+ 
+ | Methods | Publication | Supervision | paper | code |dataset|
+ | :----: | :----: | :----: | :----: | :----: |:----: |
+ | EM-Paste | ArXiv2022 | image-level | [paper](https://arxiv.org/pdf/2212.07629.pdf) | - |  COCO,VOC |
