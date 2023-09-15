@@ -49,8 +49,8 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
 
  | Methods | Publication | Supervision | paper | code |dataset|
  | :----: | :----: | :----: | :----: | :----: |:----: |
- | Point2Mask | ICCV2023 | single point | [paper](https://arxiv.org/pdf/2308.01779.pdf) | [code](https://github.com/LiWentomng/Point2Mask) |  Pascal VOC， COCO |
- | PSPS | ECCV2022 | single point | [paper](https://arxiv.org/pdf/2210.13950.pdf) | [code](https://github.com/BraveGroup/PSPS) |  Pascal VOC， COCO |
+ | Point2Mask | ICCV2023 | point | [paper](https://arxiv.org/pdf/2308.01779.pdf) | [code](https://github.com/LiWentomng/Point2Mask) |  Pascal VOC， COCO |
+ | PSPS | ECCV2022 | point | [paper](https://arxiv.org/pdf/2210.13950.pdf) | [code](https://github.com/BraveGroup/PSPS) |  Pascal VOC， COCO |
 
 * Point-supervised Instance segmentation
 
