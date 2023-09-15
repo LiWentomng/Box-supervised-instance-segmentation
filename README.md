@@ -49,15 +49,15 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
 
  | Methods | Publication | Supervision | paper | code |dataset|
  | :----: | :----: | :----: | :----: | :----: |:----: |
- | Point2Mask | ICCV2023 | single point | [paper](https://github.com/LiWentomng/Point2Mask) | [Code](https://github.com/LiWentomng/Point2Mask) |  Pascal VOC， COCO |
- | PSPS | ECCV2022 | single point | [paper](https://arxiv.org/pdf/2210.13950.pdf) | [Code](https://github.com/BraveGroup/PSPS) |  Pascal VOC， COCO |
+ | Point2Mask | ICCV2023 | single point | [paper](https://arxiv.org/pdf/2308.01779.pdf) | [code](https://github.com/LiWentomng/Point2Mask) |  Pascal VOC， COCO |
+ | PSPS | ECCV2022 | single point | [paper](https://arxiv.org/pdf/2210.13950.pdf) | [code](https://github.com/BraveGroup/PSPS) |  Pascal VOC， COCO |
 
 * Point-supervised Instance segmentation
 
 | Methods | Publication | Supervision | paper | code |dataset|
 | :----: | :----: | :----: | :----: | :----: |:----: |
-|AttentionShift| CVPR2023 |point|[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_AttentionShift_Iteratively_Estimated_Part-Based_Attention_Map_for_Pointly_Supervised_Instance_CVPR_2023_paper.pdf) |[Code](https://github.com/MingXiangL/AttentionShift) | Pascal VOC, COCO|
-|BESTIE|CVPR2022| point | [paper](https://arxiv.org/pdf/2109.09477.pdf) |[ Code](https://github.com/clovaai/BESTIE) |Pascal VOC, COCO|
+|AttentionShift| CVPR2023 |point|[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_AttentionShift_Iteratively_Estimated_Part-Based_Attention_Map_for_Pointly_Supervised_Instance_CVPR_2023_paper.pdf) |[code](https://github.com/MingXiangL/AttentionShift) | Pascal VOC, COCO|
+|BESTIE|CVPR2022| point | [paper](https://arxiv.org/pdf/2109.09477.pdf) |[ code](https://github.com/clovaai/BESTIE) |Pascal VOC, COCO|
 
  
  * Box-supervised Video Instance segmentation 
