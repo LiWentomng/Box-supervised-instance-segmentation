@@ -45,12 +45,27 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
 
 
 ## Related Paper
+* Point-supervised Panoptic segmentation 
 
+ | Methods | Publication | Supervision | paper | code |dataset|
+ | :----: | :----: | :----: | :----: | :----: |:----: |
+ | Point2Mask | ICCV2023 | single point | [paper](https://github.com/LiWentomng/Point2Mask) | [Code](https://github.com/LiWentomng/Point2Mask) |  Pascal VOC， COCO |
+ | PSPS | ECCV2022 | single point | [paper](https://arxiv.org/pdf/2210.13950.pdf) | [Code](https://github.com/BraveGroup/PSPS) |  Pascal VOC， COCO |
+
+* Point-supervised Instance segmentation
+
+| Methods | Publication | Supervision | paper | code |dataset|
+| :----: | :----: | :----: | :----: | :----: |:----: |
+|AttentionShift| CVPR2023 |point|[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_AttentionShift_Iteratively_Estimated_Part-Based_Attention_Map_for_Pointly_Supervised_Instance_CVPR_2023_paper.pdf) |[Code](https://github.com/MingXiangL/AttentionShift) | Pascal VOC, COCO|
+|BESTIE|CVPR2022| point | [paper](https://arxiv.org/pdf/2109.09477.pdf) |[ Code](https://github.com/clovaai/BESTIE) |Pascal VOC, COCO|
+
+ 
  * Box-supervised Video Instance segmentation 
  
  | Methods | Publication | Supervision | paper | code |dataset|
  | :----: | :----: | :----: | :----: | :----: |:----: |
  | BoxVIS | ArXiv2023 | box | [paper](https://arxiv.org/pdf/2303.14618.pdf) | [Code](https://github.com/MinghanLi/BoxVIS) |  YouTube-VIS, OVIS |
+ | MaskfreeVIS| CVPR2023 | box| [paper](https://arxiv.org/pdf/2303.15904.pdf) | [Code](https://github.com/SysCV/MaskFreeVis) | YouTube-VIS, OVIS, BDD100K MOTS|
 
 
  * Instance segmentation with `box+points` supervision
