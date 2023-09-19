@@ -80,6 +80,7 @@ NOTE: If I miss some paper, plese feel free to submit a Pull Request.
  
 | Methods | Publication | Supervision | paper | code |dataset|
 | :----: | :----: | :----: | :----: | :----: |:----: |
+| H2RBox-v2 | ArXiv | horizontal box   | [paper](https://arxiv.org/pdf/2304.04403.pdf) | [code](https://github.com/open-mmlab/mmrotate/blob/1.x/configs/h2rbox_v2/README.md) | DOTA, HRSC, FAIR1M|
 | H2RBox | ICLR2023 | horizontal box   | [paper](https://arxiv.org/abs/2210.06742) | [code](https://github.com/yangxue0827/h2rbox-mmrotate) | DOTA, DIOR|
 
 
